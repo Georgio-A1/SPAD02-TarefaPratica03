@@ -26,3 +26,7 @@ Este é um projeto de um Sistema de Gerenciamento de Pedidos, implementado em Py
 - `controller.py`: Lida com a coordenação entre a camada de modelo e visualização.
 
 Execute o script `main.py` para iniciar o sistema.
+
+### Vídeo
+
+Link do vídeo mostrando o projeto em execução: https://www.youtube.com/watch?v=98BfNeCPNU4
